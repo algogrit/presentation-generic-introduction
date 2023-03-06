@@ -123,3 +123,7 @@ class: center, middle
 ## Show of hands
 
 *Yay's - in Chat*
+
+---
+
+- [About me](https://algogrit.com)
